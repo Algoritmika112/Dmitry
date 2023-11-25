@@ -1,0 +1,17 @@
+<html>
+    <title> Игра про Brawl stars </title>
+    <body style="background-color:green;font-family: sans-serif; color:white">
+        <header> 
+        <a href="https://static.wikia.nocookie.net/brawlstars/images/0/0c/Nani_first_model.png/revision/latest/scale-to-width-down/250?cb=20220225163259&path-prefix=ru/"> кнопка</a>
+        </header>
+        <main>
+            <h1> Мой любимый персонаж из Brawl stars </h1>
+            <p> В преддверии нового игрового сезона Supercell порадуют игроков новым бравлером — Нани. Это единственная на сегодняшний момент девочка-робот, которая появилась 5 июня 2020 г. До этого с новым бравлером можно было познакомиться на нулс сервере. Внешне персонаж выглядит как голова Рико. Причина такого сходства состоит в том, что Нани — это дочь Рико. Пэм специально создала ее похожей на отца. Однако Нани — еще ребенок, поэтому и создана она была максимально милой.</p>
+          <img src="https://static.wikia.nocookie.net/brawlstars/images/5/59/%D0%9D%D0%B0%D0%BD%D0%B8_Skin-Default.png/revision/latest/scale-to-width-down/1000?cb=20200703153623&path-prefix=ru"/>
+        </main>
+          
+        <footer>
+ 
+        </footer>
+    </body>
+</html>
